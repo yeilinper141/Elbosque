@@ -1,4 +1,5 @@
-[juego_encierro_de_remolinos.zip](https://github.com/user-attachments/files/20961349/juego_encierro_de_remolinos.zip)
+[juego_reto_bandido_corregido.zip](https://github.com/user-attachments/files/21029952/juego_reto_bandido_corregido.zip)
+
 
 
 Aún no hay nada que decir pero después si
